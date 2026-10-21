@@ -2,7 +2,7 @@
 # **Logistic Regression for Binary Classification**
 ## Brief description of the Dataset
 
-An experiment was conducted on 5000 participants to study the effects of age and physical health on hearing loss, specifically the ability to hear high pitched tones. This data displays the result of the study in which participants were evaluated and scored for physical ability and then had to take an audio test (pass/no pass) which evaluated their ability to hear high frequencies. The age of the user was also noted. The question we eould like to explore here is: is it possible to build a model that would predict someone's liklihood to hear the high frequency sound based solely on their features (age and physical score)?
+An experiment was conducted on 5000 participants to study the effects of age and physical health on hearing loss, specifically the ability to hear high pitched tones. This data displays the result of the study in which participants were evaluated and scored for physical ability and then had to take an audio test (pass/no pass) which evaluated their ability to hear high frequencies. The age of the user was also noted. The question we would like to explore here is: is it possible to build a model that would predict someone's liklihood to hear the high frequency sound based solely on their features (age and physical score)?
 * Features
     * age - Age of participant in years
     * physical_score - Score achieved during physical exam
