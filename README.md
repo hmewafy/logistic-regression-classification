@@ -1,4 +1,4 @@
-# Classification-Logistic-Regression-
+# logistic-regression-classification-
 # **Logistic Regression for Binary Classification**
 ## Brief description of the Dataset
 
